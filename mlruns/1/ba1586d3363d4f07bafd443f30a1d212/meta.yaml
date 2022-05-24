@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nicolailewis/code/lewisnic/TaxiFareModel/mlruns/1/ba1586d3363d4f07bafd443f30a1d212/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: ba1586d3363d4f07bafd443f30a1d212
+run_uuid: ba1586d3363d4f07bafd443f30a1d212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653395988957
+status: 1
+tags: []
+user_id: unknown
